@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ade5h
+- 👋 Hi, I’m Adesh Attavar
 - 👀 I'm a senior undergrad in Computer Science from MIT, Manipal.
 - 🏫 I'm interested in developing for Web, Mobile and most recently even Blockchain.
 - 📫 You can reach out to me on <a href="https://www.linkedin.com/in/ade5h"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="20"></a>
